@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @knowthyselfBR
 - 👀 I’m interested in developing efficient solutions
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Blockchain, DEFI, automation.
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Blockchain, DEFI.
 - 📫 How to reach me: rd.dev.2022@gmail.com
 
 <!---
